@@ -1,0 +1,6 @@
+c:\users\sohail haider\documents\visual studio 2015\Projects\AprioriSelf\AprioriSelf\bin\Debug\AprioriSelf.exe.config
+c:\users\sohail haider\documents\visual studio 2015\Projects\AprioriSelf\AprioriSelf\bin\Debug\AprioriSelf.exe
+c:\users\sohail haider\documents\visual studio 2015\Projects\AprioriSelf\AprioriSelf\bin\Debug\AprioriSelf.pdb
+c:\users\sohail haider\documents\visual studio 2015\Projects\AprioriSelf\AprioriSelf\obj\Debug\AprioriSelf.csprojResolveAssemblyReference.cache
+c:\users\sohail haider\documents\visual studio 2015\Projects\AprioriSelf\AprioriSelf\obj\Debug\AprioriSelf.exe
+c:\users\sohail haider\documents\visual studio 2015\Projects\AprioriSelf\AprioriSelf\obj\Debug\AprioriSelf.pdb
